@@ -17,6 +17,5 @@ eureka: #Netflix's Eureka config
 #Setting logging levels
 logging:
   level:
-    com.netflix: WARN
-    org.springframework.web: WARN
-    com.thoughtmechanix: DEBUG
+    com.netflix: INFO
+    org.springframework.web: INFO
